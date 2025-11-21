@@ -1,0 +1,4 @@
+Host 34.233.124.68
+  HostName 34.233.124.68
+  IdentityFile C:UserseroniDownloadsJenkins.pem
+  User ec2-user
